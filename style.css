@@ -1,0 +1,23 @@
+.button {
+  position: absolute;
+  left: 50%;
+  bottom: 50px;
+  transform: translateX(-50%);
+}
+
+.alt {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+.alt:hover {
+    background-color: #25cff2;
+}
+#altk{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
